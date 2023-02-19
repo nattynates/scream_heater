@@ -11,9 +11,9 @@ Before use:
   
 Product Desription:
   Have you ever wanted to look like Iron Man, but you live in Canada? Buddy, do we have
-  the product for you! The Screamathon 3300 is a heated glove with the added benefit of
+  the product for you! The Screamathon 3300 is a heated glove with the added feature of
   passing snarky remarks at you through the on-board LCD display. But, there's a catch...
-  The only way to survive the horrorific chill of the Canadian winter is to SCREAM ON!
+  The only way to survive the horrific chill of the Canadian winter is to SCREAM ON!
   
   Every time that I look in the mirror
   All these lines on my face getting clearer
