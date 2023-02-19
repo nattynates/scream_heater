@@ -20,7 +20,7 @@ void loop() {
 
   Serial.println(delta);
 
-  if (delta > 20) {
+  if (delta > 50) {
     digitalWrite(ledPin, HIGH);
     delay(1000);
   }
